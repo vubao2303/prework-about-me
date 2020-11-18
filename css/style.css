@@ -4,6 +4,11 @@ body {
     font-family: "Open Sans", "Helvetica Neue", sans-serif;
 }
 
+h1 {
+  Color: Violet;
+  text-align: center
+}
+
 .content-footer,
 .masthead-heading,
 .masthead-intro {
