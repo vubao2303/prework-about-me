@@ -1,4 +1,5 @@
 body {
+  background-color: rgba(7, 231, 7, 0.397);
     color: #222222;
     font-size: 1em;
     font-family: "Open Sans", "Helvetica Neue", sans-serif;
@@ -8,7 +9,20 @@ h1 {
   Color: rgb(201, 93, 201);
   text-align: center
 }
+p {
+  color: rgba(28, 3, 248, 0.26); 
+  font: Arial;
+  font-size: 1em;
+}
 
+#first {
+  Color: rgb(148, 7, 148) 
+}
+
+#second {
+  color: rgb(136, 0, 136);
+
+}
 .content-footer,
 .masthead-heading,
 .masthead-intro {
@@ -17,7 +31,7 @@ h1 {
 
 .masthead {
   padding: 6em 0;
-  background-image: url('../img/code.jpg');
+  background-image: url('../img/HAPB4577.jpeg');
   background-size: cover;
   background-repeat: no-repeat;
 }
@@ -67,7 +81,7 @@ section > h1 {
 }
 
 #footer a {
-  color: #ffffff;
+  color: #ca9696;
 }
 .social > li {
   display: inline-block;
