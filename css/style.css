@@ -4,12 +4,17 @@ body {
     font-size: 1em;
     font-family: "Open Sans", "Helvetica Neue", sans-serif;
     background-image: url('../img/HAPB4577.jpeg')
+
 }
 
-
+#B {
+  height:250px; 
+  width:250px;
+  float: right; 
+}
 h1 {
   Color: rgb(201, 93, 201);
-  text-align: center
+  text-align: center;
 }
 p {
   color: rgba(184, 182, 201, 0.26); 
@@ -36,6 +41,8 @@ p {
   background-size: cover;
   background-repeat: no-repeat;
   margin: 0px ;
+
+
 }
 
 .masthead-intro {
@@ -46,6 +53,7 @@ p {
     text-align: left; 
 }
 
+
 .masthead-heading {
     margin-top: -0.2em;
     font-weight: bold;
@@ -54,6 +62,7 @@ p {
     text-transform: uppercase;
     color: #ffffff;
     text-align: left;
+    
 }
 
 .details {
