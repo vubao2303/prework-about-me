@@ -41,7 +41,7 @@ p {
 }
 
 .masthead {
-  padding: 6em 0;
+  padding-top: 1em 0;
   background-size: cover;
   background-repeat: no-repeat;
   margin: 0px ;
@@ -71,7 +71,7 @@ p {
 }
 
 .details {
-    max-width: 38em;
+    max-width: 70em;
     margin-left: auto;
     margin-right: auto;
     margin-top: 2em;
